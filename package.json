@@ -1,0 +1,19 @@
+{
+  "name": "hooks",
+  "version": "1.0.0",
+  "description": "i am going to creat new app",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "preethi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
